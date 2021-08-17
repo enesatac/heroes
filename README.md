@@ -1,1 +1,1 @@
-heroes
+# Spring Boot Demo Application - Heroes
